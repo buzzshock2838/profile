@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vivin D'souza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buzzshock2838&label=Profile%20views&color=0e75b6&style=flat" alt="buzzshock2838" /> </p>
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buzzshock2838" alt="buzzshock2838" /></a> </p>
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- 🔭 I’m currently working on **web devepoment**
+- [Our courses](https://scrimba.com/courses)
+- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-- 🌱 I’m currently learning **CSS,HTML5,JS,PYTHON**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buzzshock2838&show_icons=true&locale=en" alt="buzzshock2838" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buzzshock2838&" alt="buzzshock2838" /></p>
+Happy Coding!
